@@ -90,11 +90,11 @@ p {
         'General Knowledge': 'https://drive.google.com/drive/folders/1W59dvNw0yRuuKQJr7-yR_1_vx1TguIZ4'
       },
       2: {
-        English: '#',
-        Hindi: '#',
-        Math: '#',
-        Science: '#',
-        'General Knowledge': '#'
+        English: 'https://drive.google.com/drive/folders/1X7DrAzxznFNI2_zDTVuGVbrzv1cPm2Py',
+        Hindi: 'https://drive.google.com/drive/folders/1XCRDs0esylsvg3xIwKdRJlN569Ev649D',
+        Math: 'https://drive.google.com/drive/folders/1XDLd2yvwz_Ynia4pOE_T2UTt4w8zGH1i',
+        Science: 'https://drive.google.com/drive/folders/1XEDPwWL_SjSZrXiRr1IuaQO6oD59c5Tp',
+        'General Knowledge': 'https://drive.google.com/drive/folders/1X_Q47wncULapX0wxQ0rqcp2bxMV-Ekd8'
       },
       3: {
         English: '#',
