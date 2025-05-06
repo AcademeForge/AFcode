@@ -15,9 +15,17 @@
       justify-content: center;
       height: 100vh;
       overflow: hidden;
+      text-align: center;
     }h1, h2 {
   color: #0d47a1;
   animation: fadeIn 1.5s ease-in-out;
+}
+
+p {
+  max-width: 600px;
+  margin: 10px auto;
+  color: #37474f;
+  font-size: 1.1em;
 }
 
 .btn {
@@ -60,7 +68,9 @@
 </head>
 <body>
   <div id="login-view">
-    <h1>Welcome to AST Booklet Portal</h1>
+    <h1>Welcome to AcademeForge</h1>
+    <p><strong>AcademeForge</strong> is a student-centric platform committed to revolutionizing the education system for Classes 1 to 12 in India. Our mission is to make learning exciting, practical, and accessible for every student.</p>
+    <p>The <strong>AcademeForge Scholars Test (AST)</strong> is a multi-round assessment program that encourages students to test their knowledge, challenge themselves, and earn recognition and scholarships. This portal allows you to access free sample questions curated for Class 1 to 10, across all major subjects.</p>
     <button class="btn" onclick="showClassView()">Continue as Guest</button>
   </div>  <div id="class-view" class="hidden">
     <h2>Select Your Class</h2>
