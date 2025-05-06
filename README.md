@@ -132,11 +132,11 @@ p {
         'General Knowledge': 'https://drive.google.com/drive/folders/1ZZB85Jw5suabUJwh6yo4ipQTAbpDWqXm'
       },
       8: {
-        English: '#',
-        Hindi: '#',
-        Math: '#',
-        Science: '#',
-        'General Knowledge': '#'
+        English: 'https://drive.google.com/drive/folders/1ZjI7Me7BwtP5oCmwp8Eqx0w1H-RJZ_ez',
+        Hindi: 'https://drive.google.com/drive/folders/1ZlLgtJ-x01OPG8WLuA1Q6lMwQMa1LhWO',
+        Math: 'https://drive.google.com/drive/folders/1ZmGNMe_FRliJiSvHXD6Lm7amS0od_T3M',
+        Science: 'https://drive.google.com/drive/folders/1Zoe8TrQle3kvs89SOvpwQhqprKN69gwz',
+        'General Knowledge': 'https://drive.google.com/drive/folders/1ZrEePlHTFw1uaE1QnaxDUXxBt8wd8yUW'
       },
       9: {
         English: '#',
