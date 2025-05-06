@@ -125,11 +125,11 @@ p {
         'General Knowledge': 'https://drive.google.com/drive/folders/1Z3eEtb4Z3L3ZBRHcMfw2jXm07AFX5g7W'
       },
       7: {
-        English: '#',
-        Hindi: '#',
-        Math: '#',
-        Science: '#',
-        'General Knowledge': '#'
+        English: 'https://drive.google.com/drive/folders/1ZARCmIveCnsZgCjtkLmdQHALco7zx9Yv',
+        Hindi: 'https://drive.google.com/drive/folders/1ZEUxsgaPSq6vwsTARng8LY-2uegP7YbB',
+        Math: 'https://drive.google.com/drive/folders/1ZFpedCKcyzpuar4HuDfuRO4e-EPSLMmr',
+        Science: 'https://drive.google.com/drive/folders/1ZYecPChzp43U60iL1JQGq2399MUYpJt2',
+        'General Knowledge': 'https://drive.google.com/drive/folders/1ZZB85Jw5suabUJwh6yo4ipQTAbpDWqXm'
       },
       8: {
         English: '#',
