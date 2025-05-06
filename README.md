@@ -48,6 +48,14 @@
   100% {opacity: 1; transform: translateY(0);}
 }
 
+.back-btn {
+  background: linear-gradient(to right, #ef5350, #e53935);
+}
+
+.back-btn:hover {
+  background: linear-gradient(to right, #e53935, #b71c1c);
+}
+
   </style>
 </head>
 <body>
@@ -57,9 +65,11 @@
   </div>  <div id="class-view" class="hidden">
     <h2>Select Your Class</h2>
     <div id="class-buttons"></div>
+    <button class="btn back-btn" onclick="goBackToLogin()">Back</button>
   </div>  <div id="subject-view" class="hidden">
     <h2>Select Subject</h2>
     <div id="subject-buttons"></div>
+    <button class="btn back-btn" onclick="goBackToClassView()">Back</button>
   </div>  <script>
     const driveLinks = {
       1: {
@@ -174,6 +184,16 @@
         };
         subjectButtons.appendChild(btn);
       });
+    }
+
+    function goBackToLogin() {
+      document.getElementById('class-view').classList.add('hidden');
+      document.getElementById('login-view').classList.remove('hidden');
+    }
+
+    function goBackToClassView() {
+      document.getElementById('subject-view').classList.add('hidden');
+      document.getElementById('class-view').classList.remove('hidden');
     }
   </script></body>
 </html>
