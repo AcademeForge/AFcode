@@ -179,7 +179,7 @@
           if (link && link !== '#') {
             window.open(link, '_blank');
           } else {
-            alert('Link not available for this subject.');
+            alert('Link will be available soon for all subjects, stay tuned.');
           }
         };
         subjectButtons.appendChild(btn);
