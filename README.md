@@ -83,11 +83,11 @@ p {
   </div>  <script>
     const driveLinks = {
       1: {
-        English: '#',
-        Hindi: '#',
-        Math: '#',
-        Science: '#',
-        'General Knowledge': '#'
+        English: 'https://drive.google.com/drive/folders/1W299Qrb3dBchYz2DJkjGXn1WAv7hBEkz',
+        Hindi: 'https://drive.google.com/drive/folders/1W1uFIcFyDH8v6wof4Azw-tNDwnKJOn60',
+        Math: 'https://drive.google.com/drive/folders/1W2AaOKE-XMxmW-g9XNodpF_KMo96SIN9',
+        Science: 'https://drive.google.com/drive/folders/1W2LPRDGmJHnxmynPt0iiT8Ycg2DrIjkR',
+        'General Knowledge': 'https://drive.google.com/drive/folders/1W59dvNw0yRuuKQJr7-yR_1_vx1TguIZ4'
       },
       2: {
         English: '#',
