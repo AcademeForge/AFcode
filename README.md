@@ -139,11 +139,11 @@ p {
         'General Knowledge': 'https://drive.google.com/drive/folders/1ZrEePlHTFw1uaE1QnaxDUXxBt8wd8yUW'
       },
       9: {
-        English: '#',
-        Hindi: '#',
-        Math: '#',
-        Science: '#',
-        'General Knowledge': '#'
+        English: 'https://drive.google.com/drive/folders/1ZycCW7JD3MwZ9ha-46B4IIwJ9m0KeidG',
+        Hindi: 'https://drive.google.com/drive/folders/1_0xqGxrj6rFAn4M0TkRK6SfdQ2Wrwbb1',
+        Math: 'https://drive.google.com/drive/folders/1_9Ln4aMwweta9CrsyMgBeDoR9vYH19jy',
+        Science: 'https://drive.google.com/drive/folders/1_B_XlEIFzJmROg9Tys9UTAWBEdMah6By',
+        'General Knowledge': 'https://drive.google.com/drive/folders/1_L8VRIoGoAiWUf8N3FMAZR7ihpU1MBNp'
       },
       10: {
         English: '#',
